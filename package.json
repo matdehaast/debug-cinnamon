@@ -1,0 +1,20 @@
+{
+  "name": "testspsp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ilp-packet": "2.2.0",
+    "ilp-plugin": "^3.4.0",
+    "ilp-plugin-btp": "^1.4.2",
+    "ilp-protocol-ildcp": "1.0.0",
+    "ilp-protocol-spsp": "^3.0.0",
+    "oer-utils": "5.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
